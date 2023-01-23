@@ -1,0 +1,49 @@
+48
+source S0 
+freecell D2 
+source C0 
+freecell S2 
+source C1 
+freecell S4 
+source C2 
+source C3 
+freecell C5 
+source D0 
+stack H7 H8 
+source D1 
+source D2 
+stack H7 H8 
+freecell S8 
+source D3 
+source D4 
+stack C5 C6 
+freecell H8 
+source C4 
+source C5 
+source D5 
+source H0 
+source H1 
+source H2 
+stack S7 S8 
+source C6 
+source C7 
+stack S5 S6 
+source H3 
+source H4 
+source H5 
+source S1 
+source S2 
+source S3 
+source D6 
+source S4 
+source S5 
+source H6 
+source D7 
+source H7 
+source C8 
+source H8 
+freecell S7 
+source D8 
+source S6 
+source S7 
+source S8 

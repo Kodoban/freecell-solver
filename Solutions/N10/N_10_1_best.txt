@@ -1,0 +1,76 @@
+75
+source H0 
+freecell H8 
+source S0 
+freecell D6 
+source S1 
+source S2 
+freecell D5 
+source S3 
+source C0 
+source S4 
+source S5 
+source S6 
+source S7 
+source S8 
+source H1 
+source H2 
+source H3 
+source C1 
+freecell H5 
+new_stack D9 
+stack C7 C8 
+new_stack D1 
+stack C6 C7 
+new_stack D3 
+source C2 
+new_stack C9 
+stack H5 H6 
+freecell D2 
+source S9 
+stack D6 D7 
+freecell D9 
+new_stack D6 
+stack H8 H9 
+freecell D6 
+new_stack H8 
+stack C7 C8 
+source C3 
+new_stack D8 
+stack C7 C8 
+stack H8 H9 
+new_stack D4 
+stack C7 C8 
+stack D6 D7 
+freecell D7 
+source D0 
+source D1 
+source D2 
+source D3 
+source D4 
+source D5 
+source D6 
+source D7 
+source D8 
+freecell H9 
+freecell C7 
+freecell H8 
+new_stack H5 
+new_stack C6 
+stack H5 H6 
+new_stack H7 
+source D9 
+freecell C8 
+new_stack H6 
+source H4 
+source H5 
+source H6 
+source H7 
+source C4 
+source C5 
+source C6 
+source H8 
+source C7 
+source C8 
+source C9 
+source H9 
