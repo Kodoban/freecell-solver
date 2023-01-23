@@ -1,0 +1,24 @@
+23
+source H0 
+freecell C3 
+source H1 
+source H2 
+source H3 
+source C0 
+source C1 
+source D0 
+source D1 
+source D2 
+source D3 
+source H4 
+freecell S4 
+source C2 
+source C3 
+source C4 
+freecell S2 
+source S0 
+source D4 
+source S1 
+source S2 
+source S3 
+source S4 

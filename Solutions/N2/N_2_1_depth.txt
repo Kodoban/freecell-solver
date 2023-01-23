@@ -1,0 +1,2473 @@
+2472
+freecell H1 
+source H0 
+source S0 
+freecell C1 
+source C0 
+source S1 
+source D0 
+source D1 
+freecell C0 
+freecell S1 
+new_stack S0 
+new_stack D1 
+source S0 
+stack S0 S1 
+new_stack D0 
+source S0 
+new_stack S0 
+new_stack H0 
+source S0 
+source D0 
+source D1 
+new_stack S0 
+new_stack D1 
+stack S0 S1 
+new_stack D0 
+new_stack S1 
+source H0 
+source S0 
+source S1 
+freecell D1 
+source D0 
+new_stack S1 
+new_stack S0 
+new_stack D0 
+stack D0 D1 
+source S0 
+new_stack D0 
+new_stack H0 
+stack H0 H1 
+source D0 
+new_stack H0 
+source S1 
+new_stack D0 
+new_stack D1 
+freecell H0 
+source D0 
+source D1 
+new_stack S1 
+new_stack S0 
+new_stack D1 
+source S0 
+stack S0 S1 
+new_stack D0 
+source S0 
+stack D0 D1 
+stack S0 S1 
+new_stack S0 
+new_stack D0 
+source H0 
+source D0 
+source D1 
+source S0 
+freecell S0 
+new_stack D1 
+new_stack D0 
+stack D0 D1 
+new_stack H0 
+source D0 
+stack H0 H1 
+source D1 
+new_stack H0 
+source S0 
+stack H0 H1 
+new_stack S0 
+new_stack H0 
+freecell D1 
+stack H0 H1 
+new_stack D0 
+new_stack H0 
+stack D0 D1 
+source S0 
+new_stack D1 
+source H0 
+source D0 
+source S1 
+freecell D0 
+new_stack S1 
+new_stack S0 
+stack S0 S1 
+new_stack H0 
+stack H0 H1 
+source S0 
+new_stack H0 
+source S1 
+source D0 
+source D1 
+source C0 
+freecell H0 
+new_stack C0 
+freecell S1 
+source C0 
+new_stack S0 
+new_stack C0 
+new_stack D1 
+source C0 
+source S0 
+stack C0 C1 
+new_stack C0 
+stack S0 S1 
+source C0 
+new_stack D0 
+source S0 
+stack C0 C1 
+new_stack C0 
+new_stack S0 
+stack S0 S1 
+new_stack S1 
+source S0 
+source S1 
+freecell D1 
+source C0 
+source D0 
+new_stack C0 
+new_stack S1 
+source C0 
+new_stack S0 
+new_stack C0 
+new_stack D0 
+stack D0 D1 
+source C0 
+new_stack D0 
+source S0 
+stack D0 D1 
+new_stack C0 
+new_stack D0 
+source H0 
+source D0 
+source S1 
+source C0 
+freecell S1 
+new_stack C0 
+new_stack S0 
+source C0 
+new_stack D0 
+source S0 
+new_stack C0 
+new_stack S0 
+new_stack H0 
+source S0 
+source C0 
+source D0 
+new_stack C0 
+new_stack S0 
+source C0 
+new_stack D0 
+new_stack D1 
+source H0 
+source S0 
+source D0 
+source D1 
+new_stack C0 
+freecell S0 
+source C0 
+new_stack D1 
+new_stack C0 
+stack C0 C1 
+new_stack D0 
+source C0 
+new_stack C0 
+new_stack H0 
+source C0 
+source D0 
+source D1 
+new_stack C0 
+new_stack D1 
+stack C0 C1 
+new_stack D0 
+source S0 
+source H0 
+new_stack C0 
+source D0 
+stack C0 C1 
+new_stack S0 
+source C0 
+source D1 
+new_stack C0 
+new_stack D1 
+stack S0 S1 
+source C0 
+freecell D0 
+source S0 
+stack C0 C1 
+new_stack C0 
+stack S0 S1 
+new_stack S0 
+source C0 
+stack C0 C1 
+new_stack H0 
+source C0 
+source S0 
+stack C0 C1 
+new_stack C0 
+new_stack S0 
+stack S0 S1 
+source C0 
+source D0 
+source S0 
+source D1 
+new_stack C0 
+new_stack S0 
+source C0 
+new_stack D1 
+new_stack C0 
+stack C0 C1 
+source S0 
+new_stack C0 
+stack S0 S1 
+new_stack D0 
+source C0 
+source S0 
+new_stack C0 
+new_stack S0 
+stack C0 C1 
+source H0 
+new_stack C0 
+stack S0 S1 
+source C0 
+new_stack S1 
+source D0 
+source S0 
+source D1 
+new_stack C0 
+source S1 
+new_stack D1 
+stack C0 C1 
+new_stack S1 
+new_stack C0 
+freecell S0 
+source C0 
+source D1 
+new_stack C0 
+freecell D1 
+source C0 
+stack D0 D1 
+new_stack D0 
+new_stack C0 
+stack D0 D1 
+new_stack H0 
+source C0 
+source D0 
+stack H0 H1 
+new_stack C0 
+new_stack H0 
+new_stack D0 
+stack H0 H1 
+source C0 
+new_stack H0 
+new_stack D1 
+source D0 
+source D1 
+freecell H0 
+new_stack C0 
+new_stack D1 
+source C0 
+stack C0 C1 
+stack D0 D1 
+source C0 
+new_stack D0 
+new_stack C0 
+stack C0 C1 
+source H0 
+source C0 
+freecell D0 
+stack C0 C1 
+new_stack C0 
+new_stack H0 
+stack H0 H1 
+source C0 
+new_stack H0 
+stack C0 C1 
+stack H0 H1 
+source D0 
+source C0 
+source D1 
+new_stack C0 
+new_stack H0 
+new_stack D1 
+stack H0 H1 
+new_stack D0 
+source H0 
+stack D0 D1 
+source C0 
+stack C0 C1 
+source D0 
+new_stack H0 
+new_stack D0 
+freecell C0 
+stack H0 H1 
+source C0 
+stack C0 C1 
+source S0 
+source C0 
+freecell D1 
+source D0 
+source H0 
+new_stack S0 
+new_stack C0 
+freecell D0 
+source C0 
+source S0 
+source S1 
+new_stack C0 
+new_stack S1 
+new_stack H0 
+stack H0 H1 
+source C0 
+new_stack H0 
+source S1 
+new_stack C0 
+source D0 
+source C0 
+new_stack S1 
+new_stack C0 
+stack H0 H1 
+new_stack S0 
+source C0 
+new_stack H0 
+new_stack C0 
+freecell D0 
+source C0 
+stack H0 H1 
+new_stack C0 
+new_stack D0 
+source C0 
+source H0 
+stack D0 D1 
+source S0 
+new_stack D0 
+source S1 
+new_stack C0 
+new_stack H0 
+source C0 
+new_stack S1 
+stack D0 D1 
+new_stack C0 
+source H0 
+new_stack S0 
+new_stack D0 
+new_stack H0 
+stack D0 D1 
+source C0 
+new_stack D0 
+new_stack D1 
+source H0 
+source D0 
+source D1 
+new_stack C0 
+new_stack D1 
+stack S0 S1 
+freecell C0 
+stack D0 D1 
+new_stack S0 
+new_stack H0 
+source D0 
+stack H0 H1 
+source S0 
+new_stack H0 
+stack S0 S1 
+stack H0 H1 
+new_stack D0 
+source S0 
+new_stack H0 
+new_stack S0 
+stack H0 H1 
+freecell D0 
+new_stack H0 
+source C0 
+source S0 
+source S1 
+source H0 
+stack C0 C1 
+new_stack C0 
+new_stack S1 
+source C0 
+stack C0 C1 
+new_stack S0 
+source C0 
+stack S0 S1 
+new_stack C0 
+new_stack S0 
+freecell H0 
+source S0 
+source S1 
+source C0 
+stack C0 C1 
+new_stack S1 
+source C0 
+stack S0 S1 
+new_stack S0 
+stack C0 C1 
+source D0 
+source C0 
+source D1 
+source S0 
+new_stack C0 
+new_stack S0 
+new_stack D1 
+source S0 
+source C0 
+source S1 
+stack C0 C1 
+new_stack C0 
+new_stack H0 
+source D1 
+new_stack S1 
+stack H0 H1 
+source C0 
+new_stack H0 
+new_stack S0 
+stack H0 H1 
+new_stack C0 
+new_stack H0 
+new_stack D1 
+stack H0 H1 
+source S0 
+new_stack H0 
+source C0 
+source S1 
+stack C0 C1 
+new_stack S1 
+freecell H0 
+new_stack D0 
+source C0 
+stack D0 D1 
+stack C0 C1 
+new_stack C0 
+freecell S0 
+stack S0 S1 
+new_stack S0 
+source C0 
+stack S0 S1 
+source D0 
+new_stack C0 
+freecell D0 
+new_stack H0 
+source S0 
+stack H0 H1 
+source C0 
+stack C0 C1 
+new_stack H0 
+source S1 
+new_stack C0 
+new_stack D0 
+source H0 
+stack C0 C1 
+new_stack S1 
+stack D0 D1 
+source C0 
+new_stack C0 
+stack S0 S1 
+new_stack S0 
+source C0 
+stack S0 S1 
+new_stack H0 
+source S0 
+new_stack D0 
+source S1 
+freecell H0 
+stack C0 C1 
+new_stack H0 
+new_stack S1 
+new_stack C0 
+freecell D1 
+stack H0 H1 
+new_stack D1 
+new_stack S0 
+stack S0 S1 
+source C0 
+source D0 
+new_stack H0 
+new_stack S0 
+stack H0 H1 
+source S0 
+stack C0 C1 
+new_stack S0 
+source H0 
+new_stack D0 
+stack D0 D1 
+freecell H0 
+new_stack D0 
+freecell S1 
+source D0 
+new_stack C1 
+source S0 
+source C0 
+source C1 
+source D1 
+new_stack C1 
+freecell C0 
+new_stack S0 
+new_stack D1 
+source S0 
+stack S0 S1 
+new_stack D0 
+source S0 
+stack D0 D1 
+stack S0 S1 
+new_stack S0 
+new_stack D0 
+new_stack S1 
+source D0 
+source D1 
+source S0 
+source S1 
+freecell D1 
+new_stack S1 
+new_stack S0 
+new_stack D0 
+stack D0 D1 
+source S0 
+new_stack D0 
+stack D0 D1 
+source S1 
+new_stack D0 
+new_stack D1 
+source D0 
+new_stack S1 
+freecell S0 
+source D1 
+source H0 
+freecell S1 
+new_stack D1 
+new_stack D0 
+stack D0 D1 
+new_stack H0 
+source D0 
+stack H0 H1 
+source D1 
+new_stack H0 
+source S0 
+source H0 
+new_stack S0 
+freecell D1 
+source S0 
+new_stack D0 
+stack D0 D1 
+new_stack S0 
+new_stack D0 
+new_stack H0 
+stack H0 H1 
+source D0 
+source S0 
+new_stack H0 
+new_stack S0 
+stack D0 D1 
+source S0 
+new_stack D0 
+stack H0 H1 
+new_stack D1 
+source D0 
+source D1 
+new_stack S0 
+new_stack H0 
+new_stack D1 
+source H0 
+source S0 
+stack S0 S1 
+freecell D0 
+source S0 
+new_stack S0 
+new_stack H0 
+stack H0 H1 
+source S0 
+new_stack H0 
+stack S0 S1 
+stack H0 H1 
+source D0 
+new_stack S0 
+new_stack D0 
+freecell S0 
+new_stack H0 
+source S0 
+source D0 
+stack S0 S1 
+new_stack D0 
+new_stack S0 
+stack D0 D1 
+source S0 
+source H0 
+new_stack D0 
+stack S0 S1 
+new_stack S0 
+stack D0 D1 
+stack S0 S1 
+new_stack H0 
+new_stack S1 
+source S0 
+freecell D1 
+source S1 
+source H0 
+source D0 
+new_stack S1 
+freecell S0 
+new_stack D0 
+stack D0 D1 
+stack D0 D1 
+new_stack H0 
+stack H0 H1 
+source D0 
+new_stack H0 
+stack H0 H1 
+new_stack D0 
+stack D0 D1 
+new_stack H0 
+new_stack D0 
+stack H0 H1 
+source S0 
+source D0 
+new_stack H0 
+stack H0 H1 
+source S1 
+new_stack H0 
+freecell D0 
+source H0 
+new_stack S1 
+new_stack S0 
+new_stack H0 
+stack H0 H1 
+source S0 
+new_stack H0 
+stack H0 H1 
+source S1 
+new_stack D0 
+source H0 
+new_stack S1 
+stack D0 D1 
+stack D0 D1 
+new_stack S0 
+source D0 
+new_stack D0 
+stack D0 D1 
+new_stack H0 
+stack H0 H1 
+source D0 
+new_stack H0 
+stack H0 H1 
+new_stack D0 
+stack D0 D1 
+freecell H0 
+new_stack H0 
+new_stack D0 
+stack H0 H1 
+freecell D0 
+new_stack D1 
+source S0 
+source S1 
+source H0 
+new_stack S1 
+freecell S0 
+new_stack H0 
+stack H0 H1 
+stack H0 H1 
+source D0 
+source D1 
+new_stack H0 
+stack H0 H1 
+new_stack D1 
+source H0 
+new_stack D0 
+stack D0 D1 
+stack D0 D1 
+freecell H0 
+new_stack D0 
+stack D0 D1 
+new_stack H0 
+stack H0 H1 
+new_stack D0 
+new_stack H0 
+stack H0 H1 
+stack D0 D1 
+new_stack H0 
+source D0 
+source S0 
+source H0 
+source D1 
+source S1 
+new_stack D1 
+new_stack D0 
+stack D0 D1 
+new_stack S1 
+new_stack D0 
+stack D0 D1 
+new_stack S0 
+stack S0 S1 
+source D0 
+new_stack S0 
+source D1 
+stack H0 H1 
+source S0 
+new_stack H0 
+source S1 
+stack H0 H1 
+new_stack S1 
+new_stack S0 
+new_stack H0 
+new_stack D1 
+stack H0 H1 
+source S0 
+stack H0 H1 
+source S1 
+new_stack H0 
+freecell D0 
+freecell H0 
+new_stack S1 
+stack S0 S1 
+new_stack S0 
+source H0 
+stack S0 S1 
+new_stack H0 
+source S0 
+stack H0 H1 
+stack S0 S1 
+new_stack S0 
+new_stack H0 
+new_stack D0 
+stack D0 D1 
+freecell H0 
+source S0 
+new_stack D0 
+stack D0 D1 
+source S1 
+new_stack H0 
+new_stack D0 
+freecell D1 
+new_stack S1 
+stack D0 D1 
+stack H0 H1 
+new_stack D0 
+new_stack D1 
+source S1 
+source C0 
+freecell D1 
+source D0 
+source H0 
+source C1 
+freecell S1 
+new_stack C1 
+new_stack C0 
+freecell S0 
+source C0 
+source C1 
+new_stack D0 
+new_stack C1 
+stack D0 D1 
+new_stack C0 
+new_stack D0 
+new_stack H0 
+stack H0 H1 
+source D0 
+new_stack H0 
+source C0 
+stack H0 H1 
+new_stack D0 
+new_stack H0 
+source C1 
+source D0 
+source S0 
+freecell H0 
+new_stack C1 
+new_stack C0 
+new_stack S0 
+source C0 
+source C1 
+new_stack D0 
+source S0 
+new_stack C1 
+stack D0 D1 
+new_stack C0 
+new_stack D0 
+new_stack S0 
+stack D0 D1 
+source C0 
+new_stack D0 
+source H0 
+source S0 
+source C1 
+freecell D0 
+new_stack C1 
+new_stack C0 
+new_stack S0 
+source C0 
+source C1 
+new_stack H0 
+source S0 
+new_stack C1 
+stack H0 H1 
+new_stack C0 
+new_stack H0 
+new_stack S0 
+stack H0 H1 
+source C0 
+new_stack H0 
+source D0 
+source S0 
+stack H0 H1 
+new_stack C0 
+new_stack H0 
+new_stack S0 
+source H0 
+source C0 
+source C1 
+new_stack D0 
+new_stack H0 
+source S0 
+new_stack C1 
+stack H0 H1 
+new_stack C0 
+source H0 
+stack D0 D1 
+source C0 
+new_stack S0 
+new_stack C0 
+new_stack D0 
+new_stack H0 
+stack H0 H1 
+source D0 
+source C0 
+new_stack D0 
+new_stack H0 
+stack D0 D1 
+source S0 
+new_stack C0 
+new_stack D0 
+source S1 
+source H0 
+source D0 
+new_stack S1 
+source C0 
+source C1 
+freecell S0 
+new_stack C1 
+new_stack C0 
+freecell D0 
+source C0 
+source C1 
+stack H0 H1 
+new_stack H0 
+new_stack C1 
+stack H0 H1 
+stack H0 H1 
+new_stack C0 
+new_stack H0 
+stack H0 H1 
+source D0 
+freecell H0 
+source C0 
+source C1 
+stack D0 D1 
+new_stack D0 
+new_stack C1 
+stack D0 D1 
+stack D0 D1 
+new_stack C0 
+new_stack D0 
+stack D0 D1 
+source H0 
+new_stack D0 
+stack D0 D1 
+source C0 
+source C1 
+new_stack D0 
+new_stack C1 
+stack D0 D1 
+stack H0 H1 
+source D0 
+source C1 
+new_stack H0 
+new_stack C1 
+stack H0 H1 
+stack D0 D1 
+new_stack H0 
+source C1 
+new_stack D0 
+stack H0 H1 
+new_stack C1 
+new_stack H0 
+stack H0 H1 
+new_stack C0 
+stack D0 D1 
+new_stack H0 
+source D0 
+stack H0 H1 
+new_stack D0 
+stack D0 D1 
+new_stack H0 
+source C0 
+freecell S1 
+new_stack C0 
+new_stack S0 
+new_stack S1 
+source S0 
+source S1 
+source H0 
+source C0 
+freecell D0 
+source C1 
+new_stack S1 
+new_stack C1 
+new_stack C0 
+source S1 
+freecell H0 
+source C0 
+source C1 
+new_stack S1 
+new_stack C1 
+new_stack C0 
+new_stack S0 
+source C0 
+source C1 
+source H0 
+new_stack C1 
+new_stack C0 
+new_stack H0 
+stack H0 H1 
+source S0 
+source C0 
+new_stack H0 
+stack H0 H1 
+source C1 
+new_stack H0 
+source S1 
+new_stack C1 
+stack H0 H1 
+new_stack C0 
+new_stack H0 
+new_stack S1 
+stack H0 H1 
+new_stack S0 
+source C0 
+new_stack H0 
+stack H0 H1 
+source D0 
+source S0 
+freecell H0 
+source S1 
+source C1 
+new_stack S1 
+new_stack S0 
+new_stack C1 
+new_stack C0 
+source S0 
+source S1 
+stack D0 D1 
+source C0 
+new_stack D0 
+source C1 
+new_stack S1 
+stack D0 D1 
+new_stack C1 
+new_stack D0 
+stack D0 D1 
+new_stack C0 
+new_stack D0 
+stack D0 D1 
+new_stack S0 
+source C0 
+new_stack D0 
+stack D0 D1 
+new_stack C0 
+new_stack D0 
+source H0 
+source D0 
+source C0 
+source C1 
+stack D0 D1 
+source S0 
+new_stack D0 
+source S1 
+new_stack C1 
+new_stack S1 
+stack D0 D1 
+stack D0 D1 
+new_stack C0 
+new_stack D0 
+stack D0 D1 
+new_stack S0 
+stack D0 D1 
+source C0 
+stack D0 D1 
+new_stack D0 
+source C1 
+freecell H0 
+stack D0 D1 
+new_stack H0 
+source S0 
+source D0 
+source S1 
+new_stack C1 
+new_stack C0 
+stack H0 H1 
+new_stack S1 
+new_stack H0 
+stack H0 H1 
+source C0 
+source C1 
+new_stack S0 
+new_stack H0 
+freecell S1 
+source D1 
+source H0 
+source S0 
+new_stack C1 
+new_stack C0 
+freecell S0 
+source C0 
+source C1 
+new_stack D1 
+new_stack C1 
+new_stack C0 
+stack C0 C1 
+freecell D0 
+source C0 
+source C1 
+new_stack H0 
+new_stack C1 
+stack H0 H1 
+new_stack C0 
+source H0 
+new_stack H0 
+stack C0 C1 
+stack H0 H1 
+source D0 
+freecell H0 
+source C0 
+source C1 
+source D1 
+new_stack C1 
+new_stack C0 
+new_stack D1 
+new_stack D0 
+stack D0 D1 
+source C0 
+new_stack D0 
+source C1 
+source H0 
+new_stack C1 
+stack D0 D1 
+stack C0 C1 
+new_stack C0 
+new_stack D0 
+stack C0 C1 
+freecell H0 
+stack D0 D1 
+new_stack H0 
+source C0 
+source D0 
+source D1 
+stack H0 H1 
+new_stack C0 
+new_stack H0 
+new_stack D1 
+stack H0 H1 
+source C0 
+new_stack D0 
+new_stack H0 
+source C1 
+source D0 
+source D1 
+new_stack S1 
+source H0 
+new_stack C1 
+new_stack C0 
+new_stack D1 
+source C0 
+source C1 
+freecell D0 
+new_stack C1 
+stack C0 C1 
+new_stack C0 
+freecell H0 
+source C0 
+source C1 
+new_stack H0 
+stack H0 H1 
+new_stack C1 
+new_stack H0 
+stack H0 H1 
+stack C0 C1 
+new_stack C0 
+new_stack H0 
+stack H0 H1 
+stack C0 C1 
+freecell H0 
+new_stack H0 
+source D0 
+source C0 
+source D1 
+freecell H0 
+source C1 
+new_stack D1 
+new_stack C1 
+new_stack C0 
+stack C0 C1 
+new_stack D0 
+stack D0 D1 
+stack D0 D1 
+source C0 
+source C1 
+new_stack D0 
+new_stack C1 
+stack D0 D1 
+new_stack C0 
+new_stack D0 
+stack D0 D1 
+source H0 
+source C0 
+source C1 
+new_stack D0 
+new_stack C1 
+stack D0 D1 
+new_stack C0 
+new_stack D0 
+stack C0 C1 
+source D0 
+stack D0 D1 
+stack D0 D1 
+stack H0 H1 
+new_stack H0 
+freecell C1 
+source C0 
+new_stack C0 
+new_stack D0 
+new_stack C1 
+source D0 
+stack H0 H1 
+stack H0 H1 
+source C0 
+source C1 
+source D1 
+new_stack C1 
+stack H0 H1 
+new_stack C0 
+freecell H0 
+new_stack H0 
+stack H0 H1 
+source S0 
+source C0 
+source C1 
+source H0 
+source S1 
+new_stack C1 
+new_stack C0 
+new_stack S1 
+source C0 
+new_stack S0 
+freecell S1 
+new_stack C0 
+new_stack D1 
+source C0 
+source S0 
+source C1 
+stack S0 S1 
+new_stack S0 
+freecell D0 
+source S0 
+new_stack C1 
+stack C0 C1 
+new_stack C0 
+stack S0 S1 
+new_stack S0 
+source C0 
+stack S0 S1 
+source C1 
+freecell H0 
+source S0 
+new_stack C1 
+stack C0 C1 
+new_stack C0 
+stack S0 S1 
+new_stack S0 
+source C0 
+stack S0 S1 
+new_stack H0 
+source S0 
+stack H0 H1 
+stack C0 C1 
+new_stack C0 
+new_stack H0 
+stack C0 C1 
+new_stack S0 
+source C0 
+stack H0 H1 
+stack S0 S1 
+new_stack C0 
+new_stack S0 
+stack C0 C1 
+source H0 
+freecell H0 
+new_stack D0 
+source C0 
+source S0 
+stack D0 D1 
+stack C0 C1 
+new_stack C0 
+source D0 
+source D1 
+new_stack S0 
+source C0 
+source C1 
+new_stack D1 
+stack S0 S1 
+new_stack C1 
+new_stack S0 
+new_stack C0 
+stack S0 S1 
+new_stack D0 
+source C0 
+stack D0 D1 
+new_stack S0 
+new_stack C0 
+stack C0 C1 
+source H0 
+source S0 
+source D0 
+new_stack C0 
+stack S0 S1 
+source C0 
+new_stack D0 
+stack D0 D1 
+source S0 
+new_stack D0 
+source C1 
+new_stack S0 
+stack S0 S1 
+freecell H0 
+source S0 
+new_stack S0 
+freecell D0 
+new_stack H0 
+source S0 
+stack S0 S1 
+source D0 
+source S0 
+source D1 
+new_stack C1 
+stack H0 H1 
+new_stack C0 
+new_stack H0 
+new_stack S0 
+stack H0 H1 
+source C0 
+new_stack H0 
+new_stack D1 
+source S0 
+stack H0 H1 
+stack C0 C1 
+new_stack C0 
+new_stack H0 
+stack C0 C1 
+freecell S0 
+new_stack D0 
+stack H0 H1 
+new_stack C0 
+new_stack H0 
+stack D0 D1 
+source S0 
+source H0 
+new_stack D0 
+stack C0 C1 
+new_stack S0 
+source C0 
+stack D0 D1 
+new_stack C0 
+stack S0 S1 
+new_stack D0 
+new_stack S0 
+freecell H0 
+source S0 
+stack C0 C1 
+new_stack H0 
+stack D0 D1 
+source C0 
+new_stack D0 
+stack H0 H1 
+stack C0 C1 
+new_stack C0 
+new_stack H0 
+new_stack S0 
+stack S0 S1 
+stack H0 H1 
+source D0 
+new_stack S0 
+source C0 
+stack S0 S1 
+new_stack H0 
+new_stack C0 
+new_stack S0 
+stack C0 C1 
+source H0 
+stack H0 H1 
+new_stack D0 
+source C0 
+stack S0 S1 
+new_stack H0 
+new_stack S0 
+stack D0 D1 
+stack S0 S1 
+new_stack C0 
+freecell H0 
+new_stack S1 
+source S0 
+source S1 
+source C0 
+source D0 
+source D1 
+source C1 
+new_stack S1 
+new_stack C1 
+new_stack C0 
+source S1 
+new_stack D1 
+stack C0 C1 
+new_stack S1 
+source C0 
+source C1 
+source S1 
+freecell D0 
+new_stack C1 
+new_stack C0 
+stack C0 C1 
+new_stack S1 
+source C0 
+source C1 
+new_stack S0 
+stack S0 S1 
+new_stack C1 
+new_stack S0 
+new_stack C0 
+stack C0 C1 
+source H0 
+source S0 
+source S1 
+source C0 
+source C1 
+new_stack S1 
+new_stack C1 
+new_stack C0 
+source S1 
+stack H0 H1 
+source C0 
+new_stack H0 
+source C1 
+new_stack S1 
+stack H0 H1 
+new_stack C1 
+new_stack H0 
+stack H0 H1 
+new_stack C0 
+stack C0 C1 
+source S1 
+new_stack H0 
+new_stack C0 
+new_stack S1 
+stack C0 C1 
+stack H0 H1 
+new_stack C0 
+freecell H0 
+stack S0 S1 
+source H0 
+source C0 
+source C1 
+new_stack S0 
+new_stack C1 
+new_stack C0 
+new_stack H0 
+stack H0 H1 
+stack H0 H1 
+source C0 
+stack H0 H1 
+new_stack H0 
+source C1 
+stack H0 H1 
+stack S0 S1 
+new_stack H0 
+freecell C1 
+stack H0 H1 
+new_stack S0 
+new_stack C0 
+new_stack H0 
+stack C0 C1 
+stack H0 H1 
+new_stack C1 
+new_stack H0 
+stack H0 H1 
+source D0 
+source H0 
+source S0 
+source S1 
+source C0 
+source C1 
+new_stack S1 
+new_stack C1 
+new_stack C0 
+source S1 
+stack D0 D1 
+source C0 
+new_stack D0 
+source C1 
+new_stack S1 
+stack D0 D1 
+new_stack C1 
+new_stack D0 
+stack D0 D1 
+new_stack C0 
+stack C0 C1 
+source S1 
+new_stack D0 
+new_stack C0 
+freecell H0 
+source C0 
+source C1 
+new_stack S1 
+stack D0 D1 
+new_stack C1 
+new_stack D0 
+stack D0 D1 
+stack C0 C1 
+new_stack D0 
+stack D0 D1 
+new_stack C0 
+source D0 
+new_stack S0 
+stack S0 S1 
+source C0 
+source C1 
+new_stack S0 
+source D1 
+new_stack C1 
+new_stack C0 
+source H0 
+new_stack D1 
+source C0 
+stack S0 S1 
+source C1 
+new_stack S0 
+source D1 
+new_stack H0 
+stack H0 H1 
+new_stack C1 
+new_stack H0 
+stack H0 H1 
+source S0 
+new_stack H0 
+source C1 
+source S1 
+new_stack C1 
+stack H0 H1 
+new_stack C0 
+new_stack H0 
+new_stack S1 
+stack H0 H1 
+new_stack S0 
+new_stack H0 
+stack H0 H1 
+freecell D1 
+new_stack H0 
+stack H0 H1 
+new_stack D0 
+stack D0 D1 
+source S0 
+new_stack D0 
+source S1 
+freecell H0 
+new_stack H1 
+source D0 
+freecell C1 
+source C0 
+freecell C0 
+new_stack S1 
+stack S0 S1 
+new_stack S0 
+new_stack D0 
+stack D0 D1 
+source S0 
+new_stack D0 
+source S1 
+source C0 
+freecell D0 
+stack C0 C1 
+new_stack C0 
+new_stack S1 
+source C0 
+stack C0 C1 
+new_stack S0 
+source C0 
+stack S0 S1 
+new_stack C0 
+new_stack S0 
+source D0 
+source S0 
+freecell S1 
+source C0 
+stack C0 C1 
+new_stack S0 
+source C0 
+stack S0 S1 
+new_stack C0 
+new_stack S0 
+new_stack D0 
+source S0 
+source C0 
+stack C0 C1 
+new_stack S0 
+source C0 
+stack S0 S1 
+new_stack C0 
+new_stack S1 
+source S0 
+stack D0 D1 
+source C0 
+source D0 
+stack C0 C1 
+source S1 
+new_stack D0 
+new_stack C0 
+source H0 
+source H1 
+source C0 
+source D0 
+freecell C0 
+freecell S1 
+new_stack S0 
+new_stack D0 
+source S0 
+new_stack H1 
+source D0 
+new_stack S0 
+stack S0 S1 
+new_stack D0 
+new_stack S0 
+new_stack H0 
+source S0 
+source D0 
+new_stack S0 
+stack S0 S1 
+new_stack D0 
+new_stack S1 
+source H0 
+source D0 
+source S0 
+source S1 
+freecell D0 
+source H1 
+new_stack S1 
+new_stack S0 
+new_stack H1 
+source S0 
+stack S0 S1 
+new_stack H0 
+source S0 
+stack H0 H1 
+stack S0 S1 
+new_stack S0 
+new_stack H0 
+source D0 
+source H0 
+source H1 
+source S0 
+freecell S0 
+new_stack D0 
+stack D0 D1 
+new_stack H1 
+source D0 
+new_stack D0 
+new_stack H0 
+stack H0 H1 
+source D0 
+new_stack H0 
+stack D0 D1 
+source S0 
+source H0 
+source H1 
+new_stack D0 
+source S1 
+new_stack H1 
+new_stack S1 
+new_stack S0 
+stack D0 D1 
+stack S0 S1 
+freecell H0 
+new_stack D0 
+stack H0 H1 
+source D0 
+new_stack H0 
+source S0 
+source S1 
+freecell D0 
+new_stack D0 
+new_stack S1 
+stack H0 H1 
+source D0 
+new_stack S0 
+new_stack D0 
+new_stack H0 
+stack D0 D1 
+stack S0 S1 
+source C0 
+source H0 
+source D0 
+freecell S1 
+source S0 
+source H1 
+new_stack C0 
+freecell S0 
+source C0 
+new_stack D0 
+new_stack C0 
+new_stack H1 
+source C0 
+source D0 
+stack C0 C1 
+new_stack C0 
+new_stack H0 
+source C0 
+stack C0 C1 
+new_stack D0 
+source C0 
+new_stack C0 
+source S0 
+source C0 
+source H0 
+source H1 
+freecell D0 
+new_stack C0 
+new_stack S0 
+source C0 
+new_stack H1 
+source S0 
+new_stack C0 
+stack C0 C1 
+new_stack S0 
+new_stack C0 
+stack S0 S1 
+source C0 
+new_stack H0 
+source S0 
+new_stack C0 
+stack C0 C1 
+new_stack S0 
+source C0 
+new_stack C0 
+stack S0 S1 
+source D0 
+source C0 
+source S0 
+new_stack C0 
+stack C0 C1 
+source H0 
+new_stack C0 
+new_stack S0 
+stack S0 S1 
+new_stack D0 
+source C0 
+new_stack S0 
+source D0 
+source H1 
+new_stack C0 
+new_stack D0 
+source S0 
+new_stack H1 
+stack C0 C1 
+freecell S0 
+new_stack S0 
+source D0 
+new_stack H0 
+source C0 
+new_stack C0 
+new_stack D0 
+source C0 
+stack S0 S1 
+new_stack C0 
+new_stack S1 
+source D0 
+source H0 
+source S0 
+source S1 
+source H1 
+new_stack S1 
+source C0 
+freecell S0 
+new_stack C0 
+freecell D0 
+source C0 
+new_stack H1 
+new_stack C0 
+stack C0 C1 
+new_stack H0 
+stack H0 H1 
+source C0 
+new_stack H0 
+new_stack C0 
+stack H0 H1 
+source D0 
+source C0 
+source H0 
+new_stack C0 
+stack C0 C1 
+new_stack D0 
+stack D0 D1 
+source C0 
+new_stack D0 
+source H1 
+stack D0 D1 
+new_stack C0 
+new_stack D0 
+new_stack H1 
+stack D0 D1 
+freecell H0 
+source D0 
+source C0 
+stack C0 C1 
+stack D0 D1 
+source C0 
+new_stack D0 
+stack C0 C1 
+new_stack C0 
+new_stack H0 
+stack H0 H1 
+source C0 
+new_stack H0 
+source D0 
+stack C0 C1 
+new_stack C0 
+stack D0 D1 
+source C0 
+stack C0 C1 
+new_stack D0 
+stack H0 H1 
+source D0 
+source S0 
+source C0 
+source H0 
+source S1 
+stack C0 C1 
+new_stack S1 
+new_stack S0 
+source C0 
+source H1 
+new_stack C0 
+freecell D0 
+source C0 
+source S0 
+source S1 
+new_stack C0 
+new_stack S1 
+new_stack H1 
+source S1 
+source C0 
+stack C0 C1 
+new_stack S1 
+source C0 
+stack S0 S1 
+new_stack S0 
+new_stack C0 
+stack C0 C1 
+new_stack H0 
+stack H0 H1 
+source C0 
+source S0 
+new_stack H0 
+source S1 
+stack C0 C1 
+new_stack C0 
+new_stack S1 
+stack H0 H1 
+stack C0 C1 
+new_stack H0 
+source D0 
+source S1 
+source C0 
+new_stack C0 
+new_stack S1 
+source C0 
+stack S0 S1 
+new_stack S0 
+freecell H0 
+stack S0 S1 
+new_stack C0 
+stack D0 D1 
+new_stack S0 
+new_stack D0 
+source C0 
+stack D0 D1 
+stack S0 S1 
+new_stack D0 
+source S0 
+stack C0 C1 
+stack D0 D1 
+new_stack S0 
+source D0 
+new_stack D0 
+source H0 
+source C0 
+source H1 
+freecell S1 
+new_stack D1 
+source D0 
+source D1 
+source S0 
+freecell C0 
+freecell S0 
+new_stack D1 
+new_stack D0 
+new_stack H1 
+source D0 
+source D1 
+new_stack H0 
+new_stack D1 
+new_stack D0 
+source S0 
+source D0 
+source D1 
+source H0 
+stack S0 S1 
+new_stack S0 
+source H1 
+new_stack D1 
+source S0 
+stack S0 S1 
+freecell D0 
+source S0 
+new_stack S0 
+new_stack H1 
+source S0 
+stack S0 S1 
+stack S0 S1 
+new_stack H0 
+source S0 
+new_stack S0 
+stack S0 S1 
+source D0 
+new_stack S0 
+stack S0 S1 
+source H0 
+source S0 
+stack S0 S1 
+new_stack S0 
+new_stack D0 
+source H1 
+source S0 
+stack S0 S1 
+new_stack H1 
+source S0 
+stack S0 S1 
+freecell H0 
+source D0 
+source D1 
+source S0 
+new_stack S0 
+new_stack D1 
+source S0 
+stack S0 S1 
+new_stack D0 
+source S0 
+new_stack S0 
+new_stack H0 
+stack S0 S1 
+stack S0 S1 
+new_stack S1 
+source H0 
+source D0 
+source D1 
+source S0 
+source S1 
+source H1 
+new_stack S1 
+freecell S0 
+new_stack D1 
+freecell D0 
+new_stack H1 
+new_stack H0 
+stack H0 H1 
+source D0 
+source D1 
+source H0 
+new_stack D1 
+new_stack D0 
+stack D0 D1 
+source H1 
+new_stack D0 
+source S0 
+source D0 
+source S1 
+freecell D0 
+new_stack S1 
+new_stack S0 
+stack S0 S1 
+new_stack H1 
+source S0 
+source S1 
+freecell H0 
+new_stack S1 
+new_stack S0 
+stack S0 S1 
+stack S0 S1 
+new_stack H0 
+stack H0 H1 
+source S0 
+new_stack H0 
+source S1 
+source D0 
+source H0 
+new_stack S1 
+new_stack S0 
+stack S0 S1 
+source H1 
+new_stack S0 
+source D1 
+new_stack H1 
+freecell H0 
+source S0 
+source S1 
+new_stack D1 
+new_stack S1 
+freecell S0 
+source D1 
+stack S0 S1 
+new_stack D1 
+new_stack S0 
+stack S0 S1 
+new_stack D0 
+stack D0 D1 
+source S0 
+new_stack D0 
+source S1 
+source H0 
+source H1 
+source C0 
+source D0 
+source D1 
+new_stack C0 
+freecell S1 
+freecell S0 
+source C0 
+new_stack D1 
+new_stack C0 
+stack C0 C1 
+freecell D0 
+source C0 
+new_stack C0 
+new_stack H1 
+source C0 
+stack C0 C1 
+stack C0 C1 
+new_stack H0 
+source C0 
+new_stack C0 
+stack C0 C1 
+source D0 
+source C0 
+source H0 
+source D1 
+stack C0 C1 
+new_stack C0 
+new_stack D1 
+stack C0 C1 
+stack C0 C1 
+new_stack D0 
+source H1 
+source C0 
+new_stack C0 
+new_stack H1 
+source C0 
+stack C0 C1 
+freecell H0 
+source C0 
+source D0 
+source D1 
+stack C0 C1 
+new_stack C0 
+new_stack D1 
+stack C0 C1 
+stack C0 C1 
+new_stack D0 
+new_stack C0 
+new_stack H0 
+source C0 
+stack C0 C1 
+stack C0 C1 
+source D0 
+new_stack C0 
+source D1 
+source C0 
+stack C0 C1 
+source S0 
+source H0 
+source C0 
+new_stack C0 
+stack S0 S1 
+new_stack S0 
+source H1 
+new_stack D1 
+source S0 
+source C0 
+stack C0 C1 
+new_stack S0 
+freecell D0 
+source C0 
+source S0 
+stack C0 C1 
+new_stack C0 
+stack S0 S1 
+new_stack S0 
+new_stack H1 
+source S0 
+source C0 
+stack C0 C1 
+stack C0 C1 
+stack S0 S1 
+new_stack S0 
+source C0 
+stack S0 S1 
+stack S0 S1 
+source H1 
+source D0 
+new_stack C0 
+new_stack D0 
+source S0 
+source C0 
+stack C0 C1 
+new_stack S0 
+new_stack C0 
+new_stack H1 
+source C0 
+source D0 
+source D1 
+stack S0 S1 
+new_stack D1 
+source S0 
+stack C0 C1 
+new_stack C0 
+stack C0 C1 
+stack S0 S1 
+new_stack S0 
+stack C0 C1 
+new_stack C0 
+stack S0 S1 
+stack S0 S1 
+source C0 
+stack C0 C1 
+freecell D0 
+new_stack C0 
+stack S0 S1 
+freecell H0 
+source S0 
+source C0 
+stack C0 C1 
+stack C0 C1 
+stack S0 S1 
+new_stack S0 
+source C0 
+stack S0 S1 
+stack S0 S1 
+stack C0 C1 
+new_stack C0 
+new_stack S0 
+stack C0 C1 
+source H0 
+new_stack H0 
+source C0 
+source S0 
+stack C0 C1 
+new_stack C0 
+stack C0 C1 
+stack S0 S1 
+new_stack S0 
+new_stack C0 
+stack S0 S1 
+stack S0 S1 
+source C0 
+stack S0 S1 
+source D0 
+source S0 
+freecell H0 
+source D1 
+stack C0 C1 
+new_stack C0 
+stack S0 S1 
+new_stack S0 
+source C0 
+stack S0 S1 
+new_stack D1 
+new_stack S0 
+stack S0 S1 
+stack C0 C1 
+new_stack C0 
+source S0 
+stack C0 C1 
+stack C0 C1 
+stack S0 S1 
+new_stack S0 
+stack C0 C1 
+new_stack C0 
+stack S0 S1 
+new_stack D0 
+source S0 
+source C0 
+stack C0 C1 
+stack C0 C1 
+stack S0 S1 
+new_stack S0 
+source C0 
+freecell H1 
+new_stack S1 
+stack S0 S1 
+new_stack H1 
+freecell S1 
+stack S0 S1 
+source H0 
+source S0 
+new_stack C0 
+stack C0 C1 
+stack C0 C1 
+new_stack S0 
+stack S0 S1 
+new_stack C0 
+stack S0 S1 
+source C0 
+source H1 
+new_stack S1 
+source D0 
+source S0 
+source D1 
+new_stack C0 
+freecell S0 
+source C0 
+new_stack D1 
+new_stack C0 
+stack C0 C1 
+freecell D0 
+source C0 
+new_stack C0 
+new_stack H1 
+source C0 
+stack C0 C1 
+stack C0 C1 
+freecell H0 
+source C0 
+stack C0 C1 
+new_stack C0 
+new_stack H0 
+stack H0 H1 
+source C0 
+new_stack H0 
+stack C0 C1 
+stack C0 C1 
+stack H0 H1 
+stack C0 C1 
+source D0 
+source C0 
+source H0 
+source D1 
+stack C0 C1 
+new_stack C0 
+new_stack D1 
+stack C0 C1 
+stack C0 C1 
+stack D0 D1 
+source H1 
+new_stack D0 
+source C0 
+stack D0 D1 
+new_stack C0 
+new_stack D0 
+new_stack H1 
+stack D0 D1 
+source C0 
+new_stack D0 
+stack C0 C1 
+stack C0 C1 
+freecell H0 
+source C0 
+source D0 
+source D1 
+stack C0 C1 
+new_stack C0 
+new_stack D1 
+stack C0 C1 
+stack C0 C1 
+stack D0 D1 
+source C0 
+freecell C0 
+new_stack D0 
+stack C0 C1 
+new_stack C0 
+stack D0 D1 
+stack C0 C1 
+source H0 
+new_stack H0 
+source C0 
+source D0 
+source D1 
+stack H0 H1 
+stack C0 C1 
+new_stack C0 
+new_stack H0 
+freecell C0 
+new_stack D1 
+new_stack D0 
+stack D0 D1 
+new_stack C0 
+stack C0 C1 
+source D0 
+stack H0 H1 
+new_stack C0 
+new_stack H0 
+stack C0 C1 
+source D1 
+source S0 
+source C0 
+source H0 
+source S1 
+stack C0 C1 
+new_stack C0 
+new_stack S1 
+stack C0 C1 
+new_stack S0 
+source C0 
+source H1 
+new_stack C0 
+new_stack D1 
+source C0 
+stack C0 C1 
+source S0 
+new_stack C0 
+source S1 
+stack C0 C1 
+freecell D0 
+source C0 
+new_stack C0 
+new_stack S1 
+source C0 
+stack C0 C1 
+new_stack S0 
+source C0 
+stack S0 S1 
+new_stack C0 
+new_stack S0 
+new_stack H1 
+source S0 
+source S1 
+source C0 
+stack C0 C1 
+stack C0 C1 
+new_stack S1 
+source C0 
+stack C0 C1 
+stack S0 S1 
+source C0 
+stack S0 S1 
+new_stack S0 
+freecell C0 
+stack S0 S1 
+new_stack H0 
+new_stack S0 
+stack H0 H1 
+stack S0 S1 
+source C0 
+source S0 
+freecell H0 
+source S1 
+stack C0 C1 
+stack C0 C1 
+new_stack C0 
+new_stack S1 
+stack C0 C1 
+stack C0 C1 
+stack S0 S1 
+new_stack S0 
+source C0 
+stack S0 S1 
+stack S0 S1 
+stack C0 C1 
+new_stack C0 
+stack S0 S1 
+new_stack S0 
+stack C0 C1 
+source H0 
+stack C0 C1 
+stack S0 S1 
+new_stack C0 
+stack S0 S1 
+new_stack H0 
+source S0 
+stack H0 H1 
+stack C0 C1 
+stack C0 C1 
+new_stack H0 
+source C0 
+source S1 
+stack C0 C1 
+stack C0 C1 
+new_stack C0 
+source D0 
+source D1 
+source C0 
+freecell H0 
+stack C0 C1 
+new_stack C0 
+new_stack S1 
+source C0 
+stack C0 C1 
+new_stack S0 
+source C0 
+stack S0 S1 
+new_stack C0 
+new_stack S0 
+new_stack D1 
+source S0 
+source S1 
+source C0 
+stack C0 C1 
+stack C0 C1 
+new_stack S1 
+source C0 
+stack C0 C1 
+stack S0 S1 
+source C0 
+stack S0 S1 
+new_stack S0 
+stack C0 C1 
+stack C0 C1 
+stack S0 S1 
+new_stack C0 
+stack S0 S1 
+new_stack D0 
+source S0 
+stack D0 D1 
+source C0 
+new_stack D0 
+source S1 
+stack C0 C1 
+stack C0 C1 
+new_stack C0 
+source H0 
+source H1 
+stack C0 C1 
+new_stack S1 
+source C0 
+freecell D1 
+stack D0 D1 
+new_stack C0 
+new_stack D0 
+new_stack S0 
+stack D0 D1 
+source C0 
+freecell C0 
+new_stack D0 
+new_stack D1 
+stack S0 S1 
+stack D0 D1 
+source S0 
+new_stack S0 
+new_stack H1 
+source S0 
+new_stack D0 
+new_stack S0 
+stack S0 S1 
+stack D0 D1 
+stack S0 S1 
+freecell H0 
+new_stack S0 
+new_stack D0 
+stack S0 S1 
+source C0 
+stack D0 D1 
+stack S0 S1 
+new_stack S0 
+new_stack D0 
+new_stack C0 
+stack C0 C1 
+stack D0 D1 
+new_stack C0 
+stack C0 C1 
+source S0 
+stack C0 C1 
+new_stack D0 
+stack C0 C1 
+new_stack S0 
+stack S0 S1 
+new_stack C0 
+stack D0 D1 
+stack C0 C1 
+source H0 
+source S0 
+source H1 
+source C0 
+new_stack C0 
+new_stack D0 
+new_stack S0 
+stack S0 S1 
+source D0 
+stack D0 D1 
+new_stack S0 
+source C0 
+stack S0 S1 
+new_stack H1 
+source S0 
+freecell D1 
+new_stack D0 
+source S1 
+stack C0 C1 
+new_stack S1 
+stack D0 D1 
+new_stack C0 
+new_stack D0 
+new_stack S0 
+stack S0 S1 
+freecell D0 
+new_stack H0 
+stack H0 H1 
+source C0 
+new_stack H0 
+new_stack S0 
+new_stack C0 
+stack H0 H1 
+source D0 
+source C0 
+stack S0 S1 
+new_stack C0 
+source S0 
+new_stack D0 
+source C0 
+new_stack H0 
+stack D0 D1 
+new_stack C0 
+stack C0 C1 
+new_stack D0 
+stack H0 H1 
+new_stack S0 
+source D0 
+new_stack H0 
+new_stack C0 
+source H0 
+stack D0 D1 
+source C0 
+stack C0 C1 
+new_stack H0 
+source C0 
+new_stack D0 
+stack H0 H1 
+stack S0 S1 
+source H0 
+new_stack H0 
+new_stack D1 
+source D0 
+source D1 
+source H0 
+new_stack C0 
+new_stack S0 
+new_stack D1 
+source S0 
+source C0 
+source S1 
+stack C0 C1 
+stack C0 C1 
+new_stack C0 
+new_stack C1 
+source D1 
+source H1 
+source C0 
+source C1 
