@@ -9,9 +9,9 @@ The Solutions folder contains 13 folders, one for each value of N, where N is th
  - 4 randomly generated deals (except N1 and N2 which contain 1 and 2 deals respectively, due to their symmetrical nature),
  - A step-by-step solution for each deal (if found within 60 seconds) using BFS, DFS, A* and (greedy) best-first search,
  - A .exe file compiled for that specific value of N (N is a defined constant in the solver). The syntax for running compiled solver is: `<executable> <method> <input-file> <output-file>`, where:
-    +`<method> = breadth|depth|best|astar`, 
-    +`<input-file>` is a file containing a freecell game, 
-    +`<output-file>` is the file where the solution will be written.
+   + `<method> = breadth|depth|best|astar`, 
+   + `<input-file>` is a file containing a freecell game, 
+   + `<output-file>` is the file where the solution will be written.
  
 The solver file contains the entirety of the code necessary for solving deals.
 
